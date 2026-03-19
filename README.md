@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamsingh9888-droid&label=Profile%20views&color=0e75b6&style=flat" alt="anupamsingh9888-droid" /> </p>
 
-- 🔭 I’m currently working on **Smart Event Management, Current Weather **
+- 🔭 I’m currently working on **Smart Event Management, API **
 
 - 🌱 I’m currently learning **Python,HTML,CSS,JavaScript,DataStructure**
 
